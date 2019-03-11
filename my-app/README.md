@@ -1,4 +1,4 @@
-### Clone This Repo and type any text in Input Field and it displays Char by char and by Clicking on Displayed Char, Char will be Deleted.
+## Clone This Repo and type any text in Input Field and it displays Character by Character and by Clicking on Displayed Character, Character will be Deleted.
 
 ### Airbnb EsLint is Used for Linting 
 
