@@ -1,3 +1,7 @@
+###Clone This Repo and type any text in Input Field and it displays Char by char and by Clicking on Displayed Char, Char will be Deleted.
+
+###Airbnb EsLint is Used for Linting 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
